@@ -7,27 +7,17 @@
         {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "http://fl3.moveonjoy.com/Discovery_Science/index.m3u8"
+            "http://fl41.moveonjoy.com/Discovery_Science/index.m3u8"
           ],
           "numberCam": "534",
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
           "titleCam": "DISCOVERY SCIENCE"
         },
-          {
-          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "http://145.255.192.25/DISCOVERY_HD/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "535",
-          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
-          "titleCam": "DISCOVERY HD"
-        },
         {
           "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
+            "http://fl41.moveonjoy.com/Discovery_Channel/index.m3u8"
           ],
           "subtitleCam": "All Channel",
           "numberCam": "536",
@@ -35,19 +25,9 @@
           "titleCam": "DISCOVERY CHANNEL"
         },
         {
-          "descriptionCam": "Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "http://app.hughag.store/api/5804d89e97/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "537",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
-          "titleCam": "DISCOVERY TURBO"
-        },
-        {
           "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
           "sourceCam": [
-            "https://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
+            "https://fl41.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
           ],
           "subtitleCam": "All Channel",
           "numberCam": "538",
@@ -57,7 +37,7 @@
          {
           "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "https://fl3.moveonjoy.com/TLC/index.m3u8"
+            "https://fl41.moveonjoy.com/TLC/index.m3u8"
           ],
           "numberCam": "539",
           "subtitleCam": "All Channel",
@@ -93,6 +73,36 @@
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/M18yOTA5Nzc1NDJf/failarmy.png",
           "titleCam": "FAILARMY TV"
+        },
+          {
+          "descriptionCam": "Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://app.hughag.store/api/5804d89e97/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "537",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
+          "titleCam": "DISCOVERY TURBO"
+        },
+         {
+          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://145.255.192.25/DISCOVERY_HD/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "535",
+          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+          "titleCam": "DISCOVERY HD"
+        },
+         {
+          "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://fl41.moveonjoy.com/Discovery_Science/index.m3u8"
+          ],
+          "numberCam": "534",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
+          "titleCam": "DISCOVERY SCIENCE"
         }
       ]
     }
