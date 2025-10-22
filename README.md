@@ -14,16 +14,6 @@
           "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
           "titleCam": "DISCOVERY SCIENCE"
         },
-        {
-          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "http://fl41.moveonjoy.com/Discovery_Channel/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "536",
-          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
-          "titleCam": "DISCOVERY CHANNEL"
-        },
          {
           "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
@@ -33,6 +23,16 @@
           "numberCam": "535",
           "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
           "titleCam": "DISCOVERY HD"
+        },
+        {
+          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://fl41.moveonjoy.com/Discovery_Channel/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "536",
+          "thumbCam": "https://od.lk/s/NDZfNzgyNjYxMzFf/discoveryChannel.jpg",
+          "titleCam": "DISCOVERY CHANNEL"
         },
         {
           "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
@@ -45,26 +45,6 @@
           "titleCam": "INVESTGATION DISC"
         },
          {
-          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "https://fl41.moveonjoy.com/TLC/index.m3u8"
-          ],
-          "numberCam": "539",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
-          "titleCam": "TLC TV"
-        },
-         {
-          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"
-          ],
-          "numberCam": "540",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
-          "titleCam": "TLC TV"
-        },
-        {
           "descriptionCam": "Drone TV tv est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
             "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8"
@@ -73,6 +53,16 @@
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/NDZfODUyODcwMjVf/drone.jpeg",
           "titleCam": "DRONE TV"
+        },
+         {
+          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "https://fl41.moveonjoy.com/TLC/index.m3u8"
+          ],
+          "numberCam": "539",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
+          "titleCam": "TLC TV"
         },
         {
           "descriptionCam": "FAILARMY TV est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
@@ -83,16 +73,6 @@
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/M18yOTA5Nzc1NDJf/failarmy.png",
           "titleCam": "FAILARMY TV"
-        },
-          {
-          "descriptionCam": "Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "http://app.hughag.store/api/5804d89e97/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "537",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
-          "titleCam": "DISCOVERY TURBO"
         },
          {
           "descriptionCam": "LCI est une chaîne télévisée d'informations, magazine,decouverte et tant d'autres.",
@@ -111,7 +91,7 @@
           ],
           "subtitleCam": "All Channel",
           "numberCam": "548",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
+          "thumbCam": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
           "titleCam": "TEST 1"
         },
         {
@@ -143,16 +123,6 @@
           "numberCam": "551",
           "thumbCam": "https://od.lk/s/NDZfODczMzI0MTJf/franceinfo.jpeg",
           "titleCam": "FRANCE INFOS"
-        },
-        {
-          "descriptionCam": "Rtbf Auvio Kids tv",
-          "sourceCam": [
-            "http://145.239.5.177/330/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "552",
-          "thumbCam": "https://od.lk/s/NDZfODczMzI1MjJf/rtbf.png",
-          "titleCam": "RTBF AUVIO"
         },
          {
           "descriptionCam": "E tv",
@@ -203,6 +173,16 @@
           "numberCam": "557",
           "thumbCam": "https://od.lk/s/NDZfODczMzUyNTJf/figaro.png",
           "titleCam": "LE FIGARO"
+        },
+        {
+          "descriptionCam": "Rtbf Auvio Kids tv",
+          "sourceCam": [
+            "http://145.239.5.177/330/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "552",
+          "thumbCam": "https://od.lk/s/NDZfODczMzI1MjJf/rtbf.png",
+          "titleCam": "RTBF AUVIO"
         },
         {
           "descriptionCam": "Mta Africa tv est une chaîne d'infos, magazine et autres.",
@@ -292,4 +272,24 @@
           "numberCam": "545",
           "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
           "titleCam": "TLC"
+        },
+           {
+          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"
+          ],
+          "numberCam": "540",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
+          "titleCam": "TLC TV"
+        },
+        {
+          "descriptionCam": "Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://app.hughag.store/api/5804d89e97/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "537",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
+          "titleCam": "DISCOVERY TURBO"
         },
