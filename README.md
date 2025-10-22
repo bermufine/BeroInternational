@@ -24,6 +24,16 @@
           "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
           "titleCam": "DISCOVERY CHANNEL"
         },
+         {
+          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://145.255.192.25/DISCOVERY_HD/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "535",
+          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+          "titleCam": "DISCOVERY HD"
+        },
         {
           "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
           "sourceCam": [
@@ -85,14 +95,74 @@
           "titleCam": "DISCOVERY TURBO"
         },
          {
-          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "descriptionCam": "LCI est une chaîne télévisée d'informations, magazine,decouverte et tant d'autres.",
           "sourceCam": [
-            "http://145.255.192.25/DISCOVERY_HD/index.m3u8"
+            "http://145.239.5.177/368/index.m3u8"
           ],
           "subtitleCam": "All Channel",
-          "numberCam": "535",
-          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
-          "titleCam": "DISCOVERY HD"
+          "numberCam": "547",
+          "thumbCam": "https://od.lk/s/NDZfODczMzE0OTFf/lcitv.jpeg",
+          "titleCam": "LCI TV"
+        },
+        {
+          "descriptionCam": "En essaie",
+          "sourceCam": [
+            "http://145.239.5.177/349/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "548",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI1MTRf/discoverturbo.jpg",
+          "titleCam": "TEST 1"
+        },
+        {
+          "descriptionCam": "Science et vie",
+          "sourceCam": [
+            "https://tvradiozap.eu/1241.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "549",
+          "thumbCam": "https://od.lk/s/NDZfODczMzIwMzNf/sciencevietv.png",
+          "titleCam": "SCIENCE & VIE"
+        },
+        {
+          "descriptionCam": "France tv",
+          "sourceCam": [
+            "http://145.239.5.177/305/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "550",
+          "thumbCam": "https://od.lk/s/NDZfODczMzIyMDRf/francetv.jpeg",
+          "titleCam": "FRANCE TV"
+        },
+        {
+          "descriptionCam": "France Infos tv",
+          "sourceCam": [
+            "http://145.239.5.177/306/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "551",
+          "thumbCam": "https://od.lk/s/NDZfODczMzI0MTJf/franceinfo.jpeg",
+          "titleCam": "FRANCE INFOS"
+        },
+        {
+          "descriptionCam": "Rtbf Auvio Kids tv",
+          "sourceCam": [
+            "http://145.239.5.177/330/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "552",
+          "thumbCam": "https://od.lk/s/NDZfODczMzI1MjJf/rtbf.png",
+          "titleCam": "RTBF AUVIO"
+        },
+         {
+          "descriptionCam": "E tv",
+          "sourceCam": [
+            "http://145.239.5.177/111/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "553",
+          "thumbCam": "https://od.lk/s/NDZfODczMzI5NjFf/etv.png",
+          "titleCam": "E TV"
         },
          {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
