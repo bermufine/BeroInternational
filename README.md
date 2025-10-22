@@ -164,6 +164,76 @@
           "thumbCam": "https://od.lk/s/NDZfODczMzI5NjFf/etv.png",
           "titleCam": "E TV"
         },
+        {
+          "descriptionCam": "BFM BISINESS est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "554",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYyODZf/bfmbusiness.jpeg",
+          "titleCam": "BFM BUSINESS"
+        },
+        {
+          "descriptionCam": "BFM tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "555",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYyMDJf/bfmtv.jpeg",
+          "titleCam": "BFM TV"
+        },
+         {
+          "descriptionCam": "Francophonie tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "556",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYwODZf/francophonie.jpeg",
+          "titleCam": "FRANCOPHONIE"
+        },
+         {
+          "descriptionCam": "Le Figaro tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://static.lefigaro.fr/secom/tnt.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "557",
+          "thumbCam": "https://od.lk/s/NDZfODczMzUyNTJf/figaro.png",
+          "titleCam": "LE FIGARO"
+        },
+        {
+          "descriptionCam": "Mta Africa tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "558",
+          "thumbCam": "https://od.lk/s/NDZfODczMzUzNTRf/mtaAfrica.png",
+          "titleCam": "MTA AFRICA"
+        },
+        {
+          "descriptionCam": "Mta Europe tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "559",
+          "thumbCam": "https://od.lk/s/NDZfODczMzU0Njhf/mtaEurope.png",
+          "titleCam": "MTA EUROPE"
+        },
+         {
+          "descriptionCam": "Mta America tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "559",
+          "thumbCam": "https://od.lk/s/NDZfODczMzU4MzVf/mtatv.jpg",
+          "titleCam": "MTA AMERICA"
+        },
          {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
