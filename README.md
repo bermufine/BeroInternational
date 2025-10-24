@@ -7,7 +7,7 @@
         {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "http://fl41.moveonjoy.com/Discovery_Science/index.m3u8"
+            "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8"
           ],
           "numberCam": "534",
           "subtitleCam": "All Channel",
@@ -27,7 +27,7 @@
         {
           "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "http://fl41.moveonjoy.com/Discovery_Channel/index.m3u8"
+            "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8"
           ],
           "subtitleCam": "All Channel",
           "numberCam": "536",
@@ -37,7 +37,7 @@
         {
           "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
           "sourceCam": [
-            "https://fl41.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
+            "https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
           ],
           "subtitleCam": "All Channel",
           "numberCam": "538",
@@ -57,7 +57,7 @@
          {
           "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "https://fl41.moveonjoy.com/TLC/index.m3u8"
+            "https://fl1.moveonjoy.com/TLC/index.m3u8"
           ],
           "numberCam": "539",
           "subtitleCam": "All Channel",
@@ -217,7 +217,7 @@
          {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
-            "http://fl41.moveonjoy.com/Discovery_Science/index.m3u8"
+            "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8"
           ],
           "numberCam": "534",
           "subtitleCam": "All Channel",
@@ -272,16 +272,6 @@
           "numberCam": "545",
           "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
           "titleCam": "TLC"
-        },
-           {
-          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"
-          ],
-          "numberCam": "540",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
-          "titleCam": "TLC TV"
         },
         {
           "descriptionCam": "Discovery Turbo est une chaîne télévisée spécialisée au Documentaires et autres.",
