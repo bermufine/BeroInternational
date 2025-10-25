@@ -215,11 +215,21 @@
           "titleCam": "MTA AMERICA"
         },
          {
+          "descriptionCam": "Global Africa Télésud est une chaîne télévisée generaliste et autres.",
+          "sourceCam": [
+            "https://tvradiozap.eu/tools/dm-m3u8.php/x8tl030"
+          ],
+          "numberCam": "534",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc0MTA1Mjdf/globalafrica.pngg",
+          "titleCam": "GLOBAL AFRICA"
+        },
+         {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
             "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8"
           ],
-          "numberCam": "534",
+          "numberCam": "535",
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
           "titleCam": "DISCOVERY SCIENCE"
@@ -231,6 +241,12 @@
 
 
 
+
+
+
+
+https://live.eu-north-1a.cf.dmcdn.net/sec2(caiLTM-swJnJIfbFYHsDE-dkvIO1FLIbDbbv0i3MDpWKg9s3h7BdwZvL46bB-LbezzpOHa72Mchau29SPrpD3GUhyZzYti5_NxUJdjOqxAwKBqKN5x018oZ7LsqQYEYC)/dm/3/x8tl030/s/live-1080@60.m3u8
+Globar Africa
 
 
  {
