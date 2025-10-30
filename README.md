@@ -225,6 +225,36 @@
           "titleCam": "GLOBAL AFRICA"
         },
          {
+          "descriptionCam": "tele Metropole est une chaîne télévisée generaliste et autres. Emettant depuis Haiti",
+          "sourceCam": [
+            "https://dvrfl03.bozztv.com/hdirect/hdirect-telemetrolple2/index.m3u8"
+          ],
+          "numberCam": "536",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDFf/metropole.png",
+          "titleCam": "TELE METROPOLE"
+        },
+         {
+          "descriptionCam": "tv panou est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
+          "sourceCam": [
+            "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
+          ],
+          "numberCam": "537",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDVf/panou.png",
+          "titleCam": "TV PANOU"
+        },
+         {
+          "descriptionCam": "tele pacific est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
+          "sourceCam": [
+            "https://hls-p1st0n8r.livepush.io/live_cdn/nsOk3qoty1d5HDD/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8"
+          ],
+          "numberCam": "538",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDJf/pacific.png",
+          "titleCam": "TELE PACIFIC"
+        },
+         {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
             "http://fl1.moveonjoy.com/Discovery_Science/index.m3u8"
