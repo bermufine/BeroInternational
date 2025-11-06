@@ -254,6 +254,16 @@
           "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDJf/pacific.png",
           "titleCam": "TELE PACIFIC"
         },
+        {
+          "descriptionCam": "Record TV é um canal de televisão generalista que transmite do Brasil",
+          "sourceCam": [
+            "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8"
+          ],
+          "numberCam": "539",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODgyNTc5MDJf/recordtv.png",
+          "titleCam": "RECORD TV"
+        },
          {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
