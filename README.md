@@ -287,18 +287,6 @@
 
 https://live.eu-north-1a.cf.dmcdn.net/sec2(caiLTM-swJnJIfbFYHsDE-dkvIO1FLIbDbbv0i3MDpWKg9s3h7BdwZvL46bB-LbezzpOHa72Mchau29SPrpD3GUhyZzYti5_NxUJdjOqxAwKBqKN5x018oZ7LsqQYEYC)/dm/3/x8tl030/s/live-1080@60.m3u8
 Globar Africa
-
-
- {
-          "descriptionCam": "Hystory HD tv est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8"
-          ],
-          "numberCam": "542",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yODk1MDM5ODlf/viasathistory.png",
-          "titleCam": "HISTORY HD"
-        },
          {
           "descriptionCam": "Crime Invest Tv est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
           "sourceCam": [
