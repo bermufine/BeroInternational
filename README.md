@@ -143,7 +143,17 @@
           "subtitleCam": "All Channel",
           "thumbCam": "https://od.lk/s/NDZfODc0MTA1Mjdf/globalafrica.pngg",
           "titleCam": "GLOBAL AFRICA"
-          }
+    },
+    {
+          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://stream.mcquack.net/177/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "535",
+          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+          "titleCam": "DISCOVERY HD"
+           }
         ]
      }
   ]
