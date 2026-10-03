@@ -4,6 +4,154 @@
     {
       "name": "Movies",
       "videos": [
+      {
+          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://stream.mcquack.net/177/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "535",
+          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
+          "titleCam": "DISCOVERY HD"
+     },
+     {
+          "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
+          "sourceCam": [
+            "http://stream.mcquack.net/205/index.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "538",
+          "thumbCam": "https://od.lk/s/NDZfODUyODcxMzhf/investigationDiscovery.jpeg",
+          "titleCam": "INVESTGATION DISC"
+    },
+    {
+          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
+          "sourceCam": [
+            "http://stream.mcquack.net/168/index.m3u8"
+          ],
+          "numberCam": "539",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
+          "titleCam": "TLC TV"
+    },
+    {
+          "descriptionCam": "FAILARMY TV est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
+          "sourceCam": [
+            "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "numberCam": "542",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/M18yOTA5Nzc1NDJf/failarmy.png",
+          "titleCam": "FAILARMY TV"
+    },
+    {
+          "descriptionCam": "Science et vie",
+          "sourceCam": [
+            "https://tvradiozap.eu/1241.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "549",
+          "thumbCam": "https://od.lk/s/NDZfODczMzIwMzNf/sciencevietv.png",
+          "titleCam": "SCIENCE & VIE"
+    },
+    {
+          "descriptionCam": "BFM BISINESS est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "554",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYyODZf/bfmbusiness.jpeg",
+          "titleCam": "BFM BUSINESS"
+    },
+    {
+          "descriptionCam": "BFM tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "555",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYyMDJf/bfmtv.jpeg",
+          "titleCam": "BFM TV"
+    },
+    {
+          "descriptionCam": "Francophonie tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "556",
+          "thumbCam": "https://od.lk/s/NDZfODczMzYwODZf/francophonie.jpeg",
+          "titleCam": "FRANCOPHONIE"
+    },
+    {
+          "descriptionCam": "Le Figaro tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://static.lefigaro.fr/secom/tnt.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "557",
+          "thumbCam": "https://od.lk/s/NDZfODczMzUyNTJf/figaro.png",
+          "titleCam": "LE FIGARO"
+    },
+    {
+          "descriptionCam": "Mta Africa tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "558",
+          "thumbCam": "https://od.lk/s/NDZfODczMzUzNTRf/mtaAfrica.png",
+          "titleCam": "MTA AFRICA"
+    },
+    {
+          "descriptionCam": "Mta America tv est une chaîne d'infos, magazine et autres.",
+          "sourceCam": [
+            "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+          ],
+          "subtitleCam": "All Channel",
+          "numberCam": "559",
+          "thumbCam": "https://od.lk/s/NDZfODczMzU4MzVf/mtatv.jpg",
+          "titleCam": "MTA AMERICA"
+    },
+    {
+          "descriptionCam": "tv panou est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
+          "sourceCam": [
+            "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
+          ],
+          "numberCam": "537",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDVf/panou.png",
+          "titleCam": "TV PANOU"
+    },
+    {
+          "descriptionCam": "tele pacific est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
+          "sourceCam": [
+            "https://hls-p1st0n8r.livepush.io/live_cdn/nsOk3qoty1d5HDD/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8"
+          ],
+          "numberCam": "538",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDJf/pacific.png",
+          "titleCam": "TELE PACIFIC"
+    },
+    {
+          "descriptionCam": "Global Africa Télésud est une chaîne télévisée generaliste et autres.",
+          "sourceCam": [
+            "https://tvradiozap.eu/tools/dm-m3u8.php/x8tl030"
+          ],
+          "numberCam": "534",
+          "subtitleCam": "All Channel",
+          "thumbCam": "https://od.lk/s/NDZfODc0MTA1Mjdf/globalafrica.pngg",
+          "titleCam": "GLOBAL AFRICA"
+          }
+        ]
+     }
+  ]
+}
+
+
+
+      
         {
           "descriptionCam": "Discovery Science est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
@@ -14,16 +162,7 @@
           "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
           "titleCam": "DISCOVERY SCIENCE"
         },
-         {
-          "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "http://145.255.192.25/DISCOVERY_HD/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "535",
-          "thumbCam": "https://od.lk/s/M18yODQ1MTA5MjJf/discoverys.jpeg",
-          "titleCam": "DISCOVERY HD"
-        },
+         
         {
           "descriptionCam": "Discovery est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
@@ -34,16 +173,7 @@
           "thumbCam": "https://od.lk/s/NDZfNzgyNjYxMzFf/discoveryChannel.jpg",
           "titleCam": "DISCOVERY CHANNEL"
         },
-        {
-          "descriptionCam": "Investigation discovery est une chaîne télévisée spécialisée aux Documentaires Border Patrol et autres.",
-          "sourceCam": [
-            "https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "538",
-          "thumbCam": "https://od.lk/s/NDZfODUyODcxMzhf/investigationDiscovery.jpeg",
-          "titleCam": "INVESTGATION DISC"
-        },
+        
          {
           "descriptionCam": "Drone TV tv est une chaîne télévisée spécialisée au Documentaires et autres.",
           "sourceCam": [
@@ -54,26 +184,8 @@
           "thumbCam": "https://od.lk/s/NDZfODUyODcwMjVf/drone.jpeg",
           "titleCam": "DRONE TV"
         },
-         {
-          "descriptionCam": "TLC est une chaîne télévisée spécialisée au Documentaires et autres.",
-          "sourceCam": [
-            "https://fl1.moveonjoy.com/TLC/index.m3u8"
-          ],
-          "numberCam": "539",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yODMzMTI3Mzhf/tlc.png",
-          "titleCam": "TLC TV"
-        },
-        {
-          "descriptionCam": "FAILARMY TV est une chaîne télévisée spécialisée aux crimes Divertissements et autres.",
-          "sourceCam": [
-            "https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8"
-          ],
-          "numberCam": "542",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/M18yOTA5Nzc1NDJf/failarmy.png",
-          "titleCam": "FAILARMY TV"
-        },
+    
+        
          {
           "descriptionCam": "LCI est une chaîne télévisée d'informations, magazine,decouverte et tant d'autres.",
           "sourceCam": [
@@ -94,16 +206,7 @@
           "thumbCam": "https://od.lk/s/NDZfNzg4ODg4NDhf/BERO1.jpg",
           "titleCam": "TEST 1"
         },
-        {
-          "descriptionCam": "Science et vie",
-          "sourceCam": [
-            "https://tvradiozap.eu/1241.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "549",
-          "thumbCam": "https://od.lk/s/NDZfODczMzIwMzNf/sciencevietv.png",
-          "titleCam": "SCIENCE & VIE"
-        },
+      
         {
           "descriptionCam": "France tv",
           "sourceCam": [
@@ -134,46 +237,8 @@
           "thumbCam": "https://od.lk/s/NDZfODczMzI5NjFf/etv.png",
           "titleCam": "E TV"
         },
-        {
-          "descriptionCam": "BFM BISINESS est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "554",
-          "thumbCam": "https://od.lk/s/NDZfODczMzYyODZf/bfmbusiness.jpeg",
-          "titleCam": "BFM BUSINESS"
-        },
-        {
-          "descriptionCam": "BFM tv est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "555",
-          "thumbCam": "https://od.lk/s/NDZfODczMzYyMDJf/bfmtv.jpeg",
-          "titleCam": "BFM TV"
-        },
-         {
-          "descriptionCam": "Francophonie tv est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "556",
-          "thumbCam": "https://od.lk/s/NDZfODczMzYwODZf/francophonie.jpeg",
-          "titleCam": "FRANCOPHONIE"
-        },
-         {
-          "descriptionCam": "Le Figaro tv est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://static.lefigaro.fr/secom/tnt.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "557",
-          "thumbCam": "https://od.lk/s/NDZfODczMzUyNTJf/figaro.png",
-          "titleCam": "LE FIGARO"
-        },
+        
+
         {
           "descriptionCam": "Rtbf Auvio Kids tv",
           "sourceCam": [
@@ -184,16 +249,7 @@
           "thumbCam": "https://od.lk/s/NDZfODczMzI1MjJf/rtbf.png",
           "titleCam": "RTBF AUVIO"
         },
-        {
-          "descriptionCam": "Mta Africa tv est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "558",
-          "thumbCam": "https://od.lk/s/NDZfODczMzUzNTRf/mtaAfrica.png",
-          "titleCam": "MTA AFRICA"
-        },
+        
         {
           "descriptionCam": "Mta Europe tv est une chaîne d'infos, magazine et autres.",
           "sourceCam": [
@@ -204,26 +260,7 @@
           "thumbCam": "https://od.lk/s/NDZfODczMzU0Njhf/mtaEurope.png",
           "titleCam": "MTA EUROPE"
         },
-         {
-          "descriptionCam": "Mta America tv est une chaîne d'infos, magazine et autres.",
-          "sourceCam": [
-            "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
-          ],
-          "subtitleCam": "All Channel",
-          "numberCam": "559",
-          "thumbCam": "https://od.lk/s/NDZfODczMzU4MzVf/mtatv.jpg",
-          "titleCam": "MTA AMERICA"
-        },
-         {
-          "descriptionCam": "Global Africa Télésud est une chaîne télévisée generaliste et autres.",
-          "sourceCam": [
-            "https://tvradiozap.eu/tools/dm-m3u8.php/x8tl030"
-          ],
-          "numberCam": "534",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/NDZfODc0MTA1Mjdf/globalafrica.pngg",
-          "titleCam": "GLOBAL AFRICA"
-        },
+         
          {
           "descriptionCam": "tele Metropole est une chaîne télévisée generaliste et autres. Emettant depuis Haiti",
           "sourceCam": [
@@ -234,26 +271,7 @@
           "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDFf/metropole.png",
           "titleCam": "TELE METROPOLE"
         },
-         {
-          "descriptionCam": "tv panou est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
-          "sourceCam": [
-            "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8"
-          ],
-          "numberCam": "537",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDVf/panou.png",
-          "titleCam": "TV PANOU"
-        },
-         {
-          "descriptionCam": "tele pacific est une chaîne télévisée generaliste et autres. emettant depuis Haiti",
-          "sourceCam": [
-            "https://hls-p1st0n8r.livepush.io/live_cdn/nsOk3qoty1d5HDD/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8"
-          ],
-          "numberCam": "538",
-          "subtitleCam": "All Channel",
-          "thumbCam": "https://od.lk/s/NDZfODc2MzE5MDJf/pacific.png",
-          "titleCam": "TELE PACIFIC"
-        },
+         
         {
           "descriptionCam": "Record TV é um canal de televisão generalista que transmite do Brasil",
           "sourceCam": [
@@ -274,10 +292,7 @@
           "thumbCam": "https://od.lk/s/M18yODMzMTI0ODJf/discoverscience.png",
           "titleCam": "DISCOVERY SCIENCE"
         }
-      ]
-    }
-  ]
-}
+  
 
 
 
